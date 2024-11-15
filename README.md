@@ -2,7 +2,7 @@
 My first ever web-browser extension. It works but it is **sh\*\*ty** **(@-@)**.
 
 ## Context:
-### I do streaming video games sometimes for fun. I listen to music while I play, and I want to show the music's title on my stream. I knows Spotify does support that, however, sadly I don't use any music application besides youtube. So, here I am!
+#### I do streaming video games sometimes for fun. I listen to music while I play, and I want to show the music's title on my stream. I knows Spotify does support that, however, sadly I don't use any music application besides youtube. So, here I am!
 - Goals
   1. Display my current playing music's title on stream (OBS)
   2. Update the title automatically whenever the music change
