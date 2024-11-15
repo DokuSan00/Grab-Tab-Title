@@ -17,7 +17,7 @@ Once this application is activated. It will target the **1st tab** in my browser
 
 1. The application sits there patiencely and creepily stares at the link, eyes open widely and no blinking.
 2. If there is a change in the title, even a single pixel, the application will catch it and disect it's organs ( I'm exaggerating =D )
-3. It checks if the link is what it've been looking for. The links, after its "**youtube.com/**" must be "**wat**" ( means "watch" but I shortened it ), not homepage nor channels ... etc
+3. It checks if the link is what it've been looking for. The links, must be video link ( check the text after "**youtube.com/**" ), not homepage nor channels ... etc
 4. If the link is lovely or cute to it, the application will extract the title and memorise it
 5. The application will then _henshin_ the title and save it in the computer as a text file.
 
