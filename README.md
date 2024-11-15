@@ -31,5 +31,5 @@ What if the file is deleted during use? Well... farewell!
 
 ## Author notes:
 It is **sh\*\*ty**. 
-Personally, I think the application uses too much comparison function, and I don't like it. Maybe I'm too harsh, but I think it could be better.
+Personally, I think the application uses too much string comparison function, and I don't like it. Maybe I'm too harsh, but I think it could be better.
 So, overall, it is **sh\*\*ty** as stated.
