@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Toggle Extension</title>
+    <style>
+        body {
+            width: 200px;
+            font-family: 'Courier New', Courier, monospace, monospace, sans-serif;
+            font-size: larger;
+            padding: 10px;
+            background-color: rgba(18, 18, 18, 0.947);
+            color: cyan;
+            text-align: center;
+        }
+        #toggleButton {
+            border: none;
+            cursor: pointer;
+            font-size: 14px;
+            width: 100%;
+
+            padding: 10px;
+            background-color: #c0645d;
+            color: rgba(31, 31, 31, 0.801);
+            
+            font-size: large;
+            font-weight: bold;
+        }
+        #toggleButton.enabled {
+            background-color: #6ec871;
+        }
+    </style>
+</head>
+<body>
+    <h3>Grab Title</h3>
+    <button id="toggleButton">Off</button>
+
+    <script src="./popup.js"></script>
+</body>
+</html>
