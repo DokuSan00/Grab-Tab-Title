@@ -12,13 +12,21 @@ My first ever web-browser extension. It works but it is **sh\*\*ty** **(@-@)**.
 ## What is this application:
 It's a web-browser extension that allows me to capture the title (html) of the page/tab and use it for my purposes
 
+## Installation:
+1. Open **FireFox**
+2. Type **about:debugging** in the address bar
+3. Click "**This FireFox**"
+4. Click "**Load temporary addons**"
+5. Select the **manifest.json**
+6. Dun!
+
 ## What this app does specifically:
-Once this application is activated. It will target the **1st tab** in my browser (not anything else. Therefore I must have the youtube as **1st tab**).
+Once this application is activated (using UI). It will target the **1st tab** in my browser (not anything else. Therefore I must have the youtube as **1st tab**).
 
 1. The application sits there patiencely and creepily stares at the link, eyes open widely and no blinking.
 2. If there is a change in the title, even a single pixel, the application will catch it and disect it's organs ( I'm exaggerating =D )
-3. It checks if the link is what it've been looking for. The links, must be video link ( check the text after "**youtube.com/**" ), not homepage nor channels ... etc
-4. If the link is lovely or cute to it, the application will extract the title and memorise it
+3. It checks if the link matches its criteria. The links, must be video link ( check the text after "**youtube.com/**" ), not homepage nor channels ... etc
+4. If the link is its type, the application will extract the title and memorise it
 5. The application will then _henshin_ the title and save it in the computer as a text file.
 
 ## To display it in OBS:
