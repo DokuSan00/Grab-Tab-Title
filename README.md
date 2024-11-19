@@ -12,14 +12,6 @@ My first ever web-browser extension. It works but it is **sh\*\*ty** **(@-@)**.
 ## What is this application:
 It's a web-browser extension that allows me to capture the title (html) of the page/tab and use it for my purposes
 
-## Installation:
-1. Open **FireFox**
-2. Type **about:debugging** in the address bar
-3. Click "**This FireFox**"
-4. Click "**Load temporary addons**"
-5. Select the **manifest.json**
-6. Dun!
-
 ## What this app does specifically:
 Once this application is activated (using UI). It will target the **1st tab** in my browser (not anything else. Therefore I must have the youtube as **1st tab**).
 
