@@ -24,7 +24,7 @@ browser.runtime.onMessage.addListener((message, sender, sendResponse) => {
         if (!title) return true;
 
         title = formatText(title);
-        const blob = new Blob([("Music: " + title)], { type: 'text/plain' });
+        const blob = new Blob([("Listening to: " + title)], { type: 'text/plain' });
 
         browser.downloads.download({
             url: URL.createObjectURL(blob),
